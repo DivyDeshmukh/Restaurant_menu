@@ -118,7 +118,7 @@ hr {
     }
     
     #content #item {
-        max-height:350px;
+        max-height:400px;
         display: flex;
         flex-direction: column;
         justify-content: flex-start;
