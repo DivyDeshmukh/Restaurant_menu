@@ -108,7 +108,7 @@ hr {
 
 @media (min-width: 250px) and (max-width: 750px) {
 
-    #wrapper {
+    body {
          background: #dde;
     }
 
