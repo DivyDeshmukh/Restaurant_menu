@@ -107,6 +107,11 @@ hr {
 }
 
 @media (min-width: 250px) and (max-width: 750px) {
+
+    #wrapper #buttons button {
+        color: blue;
+    }
+    
     #wrapper #content {
         grid-template-columns: 1fr;
         padding-bottom: 200px;
