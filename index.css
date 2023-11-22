@@ -107,12 +107,8 @@ hr {
 
 @media (min-width: 250px) and (max-width: 750px) {
 
-    body {
-         background: #dde;
-    }
-
     #wrapper #buttons button {
-        color: blue;
+        color: red;
     }
     
     #wrapper #content {
